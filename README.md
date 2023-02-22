@@ -4,3 +4,5 @@ https://www.kaggle.com/datasets/hemanthsai7/solar-panel-dust-detection. Some ima
 
 ##
 `Solar-Panel-Dust-Project`: Python notebook for the model created in Colab.
+`model_solar_dust.pth`: Model weights stored.
+`data_panels`: dataset for training and validation, not all the images
